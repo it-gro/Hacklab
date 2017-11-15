@@ -6,7 +6,8 @@ If you should give a lecture that is based on my work, it would be nice if you w
 
 Enjoy and have fun
 
-CREDITS
+My thanks for the inspiration goes to:
+
 - @da_667 
 - @InfoSystir 
 - @mainframed767 
@@ -16,4 +17,4 @@ CREDITS
 - @KirilsSolovjovs
 - @Nickf4rr
 - @snowfensive 
-  and so many more for the inspiration! 
+  and so many more... 
